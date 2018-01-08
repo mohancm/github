@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.googlesource.gerrit.plugins.github</groupId>
+  <artifactId>github-plugin</artifactId>
+  <versioning>
+    <versions>
+      <version>2.14-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180108082209</lastUpdated>
+  </versioning>
+</metadata>
